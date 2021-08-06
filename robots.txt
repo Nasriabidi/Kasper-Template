@@ -1,0 +1,5 @@
+User-Agent: * 
+Allow: /*.css?* 
+Allow: /*.js?* 
+Allow: /*.html?* 
+Sitemap: http://www.na-ab.epizy.com/sitemap_index.xml 
